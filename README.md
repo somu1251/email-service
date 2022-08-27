@@ -7,6 +7,11 @@
 
 Email delivery service.
 
+## Prerequisites 
+* SendGrid account
+* Redis server
+* Create environment configuration(refer .env.sample file)
+
 ## Installation
 
 ```bash
