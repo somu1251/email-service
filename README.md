@@ -49,7 +49,7 @@ open any browser and enter below url
 http://localhost:3000/app/docs
 
 ```
-![alt text](https://github.com/somu1251/email-service/docs/master/swagger.jpg?raw=true)
+![alt text](https://github.com/somu1251/email-service/blob/master/docs/swagger.jpg?raw=true)
 
 ## License
 
